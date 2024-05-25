@@ -1,6 +1,6 @@
 # Behavior Transformer Implementation Walkthrough
 
-Notebook walkthrough implementation of unconditional Behavior Transformer (BeT)
+Notebook walkthrough implementation of the unconditional Behavior Transformer (BeT) architecture.
 
 Original Paper: https://arxiv.org/abs/2206.11251
 
