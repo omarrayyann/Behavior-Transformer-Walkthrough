@@ -24,7 +24,7 @@ Training Curves:
 <img height="275" alt="hyperparameters" src="https://github.com/omarrayyann/Behavior-Transformer/assets/77675540/22e898f8-8d60-4ee3-881a-5a268fa13e26">
 <img height="275" alt="hyperparameters" src="https://github.com/omarrayyann/Behavior-Transformer/assets/77675540/53c68604-f61a-4afc-86e5-35983e27ca3a">
 
-Video Demo:
+Video Demo after 500 epochs:
 
 https://github.com/omarrayyann/Behavior-Transformer/assets/77675540/1f064a9d-cbde-466b-8a68-ac268803e7e7
 
