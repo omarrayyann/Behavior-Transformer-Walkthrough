@@ -19,6 +19,7 @@ After training on the [data](https://osf.io/983qz) and hyperparameters provided 
 
 Training Curves:
 
+
 <img height="275" alt="hyperparameters" src="https://github.com/omarrayyann/Behavior-Transformer/assets/77675540/687aa70e-d958-4554-8515-6c453b50b295">
 <img height="275" alt="hyperparameters" src="https://github.com/omarrayyann/Behavior-Transformer/assets/77675540/22e898f8-8d60-4ee3-881a-5a268fa13e26">
 <img height="275" alt="hyperparameters" src="https://github.com/omarrayyann/Behavior-Transformer/assets/77675540/53c68604-f61a-4afc-86e5-35983e27ca3a">
