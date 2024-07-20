@@ -1,4 +1,4 @@
-# Behavior Transformer Implementation Walkthrough
+# Behavior Transformer (BeT) Implementation Walkthrough
 
 Notebook walkthrough implementation of the unconditional Behavior Transformer (BeT) architecture.
 
